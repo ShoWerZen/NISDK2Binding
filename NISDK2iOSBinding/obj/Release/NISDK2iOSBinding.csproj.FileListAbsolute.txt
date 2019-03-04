@@ -1,0 +1,4 @@
+/Users/showerzen/allwin-xamarin/NISDK2iOSBinding/bin/Release/NISDK2iOSBinding.dll
+/Users/showerzen/allwin-xamarin/NISDK2iOSBinding/obj/Release/NISDK2iOSBinding.csprojAssemblyReference.cache
+/Users/showerzen/allwin-xamarin/NISDK2iOSBinding/obj/Release/NISDK2iOSBinding.csproj.CoreCompileInputs.cache
+/Users/showerzen/allwin-xamarin/NISDK2iOSBinding/obj/Release/NISDK2iOSBinding.dll

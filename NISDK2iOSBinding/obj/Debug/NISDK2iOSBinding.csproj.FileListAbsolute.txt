@@ -1,0 +1,5 @@
+/Users/showerzen/Projects/NISDK2iOSBinding/NISDK2iOSBinding/bin/Debug/NISDK2iOSBinding.dll
+/Users/showerzen/Projects/NISDK2iOSBinding/NISDK2iOSBinding/bin/Debug/NISDK2iOSBinding.pdb
+/Users/showerzen/Projects/NISDK2iOSBinding/NISDK2iOSBinding/obj/Debug/NISDK2iOSBinding.csproj.CoreCompileInputs.cache
+/Users/showerzen/Projects/NISDK2iOSBinding/NISDK2iOSBinding/obj/Debug/NISDK2iOSBinding.dll
+/Users/showerzen/Projects/NISDK2iOSBinding/NISDK2iOSBinding/obj/Debug/NISDK2iOSBinding.pdb
